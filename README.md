@@ -13,4 +13,9 @@
 	Este projeto foi criado no Android Studio, utilizando Kotlin como linguagem de programação e xml como linguagem de edição dos layouts.
  	Para a execução do mesmo deve-se fazer o download dos arquivos e executá-lo com o Android Studio.
 
+ 	Este projeto foi criado por mim com a ajuda do Curso "Desenvolvimento de Aplicativos Android usando Kotlin"(link do curso:https://www.udemy.com/course/curso-desenvolvedor-kotlin/).
+
+  	Projeto concluído.
+
+
 
