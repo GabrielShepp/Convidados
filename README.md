@@ -4,7 +4,7 @@
 
 
 	O projeto inclui algumas funcionalidades, entre elas temos:
-		*Um botão no canto inferior direito para que se possa adicionar um convidado, pohttps://github.com/github-copilot/signupdendo colocar o nome e se está presente ou ausente.
+		*Um botão no canto inferior direito para que se possa adicionar um convidado, podendo colocar o nome e se está presente ou ausente.
 		*O layout principal com a lista de todos os convidados.
 		*Um menu para que se possa navegar entre convidados ausentes, presentes e todos os convidados.
 		*Ao clicar no nome do convidado será redirecionado para que possa fazer a edição do mesmo.
@@ -12,3 +12,5 @@
 
 	Este projeto foi criado no Android Studio, utilizando Kotlin como linguagem de programação e xml como linguagem de edição dos layouts.
  	Para a execução do mesmo deve-se fazer o download dos arquivos e executá-lo com o Android Studio.
+
+
